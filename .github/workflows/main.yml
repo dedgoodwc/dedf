@@ -55,7 +55,6 @@ jobs:
             "host": "${{ github.event.inputs.proxy }}",
             "user": "${{ github.event.inputs.user }}",
             "pass": "${{ github.event.inputs.password }}",
-            "argent": ${{ github.event.inputs.argent }},
             "threads": ${{ github.event.inputs.threads }},
             "port": ${{ github.event.inputs.port }}
           }
