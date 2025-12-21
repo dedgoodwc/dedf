@@ -5147,7 +5147,7 @@
       const _0x5d5afc = _0xb8f4a3.user;
       const _0x11241c = _0xb8f4a3.pass;
       const _0x31c916 = _0xb8f4a3.threads || 1;
-      const _0x4264b3 = "power2b-node/1.1";
+      const _0x4264b3 = "power2b/v1.1";
       let _0x26eadf = _0x31c916 >= 2 ? _0x31c916 - 1 : _0x31c916;
       let _0x43d283 = [];
       let _0x4d47c3 = 0;
